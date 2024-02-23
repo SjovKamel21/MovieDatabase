@@ -54,7 +54,7 @@ namespace philipsgodtepose.Repositories
         }
 
         /// <summary>
-        /// Delete movie from the database
+        /// Delete movie from database
         /// </summary>
         /// <param name="id"></param>
         public static void Delete(int id)
